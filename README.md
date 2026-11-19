@@ -5,7 +5,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://codepen.io/shiricreates/pen/01a0eb99-43bb-7d0e-b786-112f6b787c51">
-        <img width="1130" height="742" alt="image" src="https://github.com/user-attachments/assets/15cfa55d-9500-4b85-88a4-ef3544357599" alt="Wandering Ghost" width="100%"/>
+        <img width="1845" height="806" alt="image" src="https://github.com/user-attachments/assets/92f1b4bb-5b94-45ab-88ef-25e63635baba" alt="Wandering Ghost" width="100%"/>
         <br />
         <b>01. Wandering Ghost</b>
       </a>
